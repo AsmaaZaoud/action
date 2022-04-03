@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AsmaaZaoud/action/issues"
   },
-  "homepage": "https://github.com/AsmaaZaoud/action#readme"
+  "homepage": "https://github.com/AsmaaZaoud/action#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
 }
